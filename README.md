@@ -1,42 +1,72 @@
-<h1 align="center">Hey there, I'm [Твоё имя] 👋</h1>
+<h1 align="center">Hey, I'm Рамазан 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/ТвойUsername">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&lines=Web+Developer+in+Progress;Cybersecurity+Enthusiast;Future+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Aspiring+Fullstack+Developer;Learning+Web+Development+%26+Cybersecurity;Keep+Pushing+Forward!" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me:
+
+- 📚 I'm learning **HTML**, **CSS**, and **JavaScript**
+- 🧠 Studying **Python** at a beginner level
+- 🛡️ Interested in **Cybersecurity** (just starting out)
+- 🎯 Goal: to become a **Fullstack Developer** step-by-step
+
+---
+
+## 🛠️ Tech I'm Working With:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+</p>
+
+---
+
+## ✅ Current Progress:
+
+- [x] HTML
+- [x] CSS
+- [ ] JavaScript (in progress)
+- [ ] Python (beginner level)
+
+---
+
+## 🎯 Next Goals:
+
+- [ ] JavaScript (advanced level)
+- [ ] React.js (Frontend framework)
+- [ ] Node.js (Backend basics)
+- [ ] SQL and Databases
+- [ ] Cybersecurity fundamentals (deeper)
+- [ ] Build first fullstack project
+
+---
+
+## 📬 Let's Connect:
+
+<p align="center">
+  <a href="https://t.me/ramazz_mp3" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kantayev.ramazan?igsh=cXdibnNjZXk2YTRp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nekarmaksim@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FF4500?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### About Me
+## ⚡ GitHub Stats:
 
-- 🚀 Learning Web Development (HTML, CSS, JS) and Cybersecurity
-- ⚡ Building my path to become a **Fullstack Developer**
-- 🌱 Always curious about new technologies
-
-### Connect with me
-
-<p align="left">
-  <a href="https://t.me/ТвойТелеграм" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ТвойИнстаграм" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ТвояПочта@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuoo15&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,git" />
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТвойUsername&show_icons=true&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Keep+Moving+Forward!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=2" />
 </p>
-
