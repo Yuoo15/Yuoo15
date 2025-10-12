@@ -48,10 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuoo15&layout=compact&theme=tokyonight" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Yuoo15/Yuoo15/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
 ---
 
 <p align="center">“Большие цели начинаются с маленьких шагов.”</p>
