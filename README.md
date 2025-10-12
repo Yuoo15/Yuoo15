@@ -51,6 +51,7 @@
 <p align="center">
   <img src="https://github.com/Yuoo15/Yuoo15/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
 ---
 
-<p align="center">⭐ “Большие цели начинаются с маленьких шагов.”</p>
+<p align="center">“Большие цели начинаются с маленьких шагов.”</p>
