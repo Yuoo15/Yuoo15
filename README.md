@@ -45,7 +45,7 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuoo15&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Yuoo15&theme=tokyonight&hide_border=true" height="auto" />
 </p>
 
 ---
