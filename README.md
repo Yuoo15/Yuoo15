@@ -32,7 +32,14 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=fff"/>
+</p>
 
+## ⚒️Дополнительно
+<p align='center'>
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
 </p>
 
 ---
