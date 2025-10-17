@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=fff"/>
+
 </p>
 
 ---
